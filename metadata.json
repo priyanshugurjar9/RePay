@@ -1,0 +1,7 @@
+{
+  "name": "Global Retail Pay",
+  "description": "A secure, responsive QR-based payment platform for global retailers like Zara, H&M, and Sainsbury's, featuring instant checkout and exit verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
